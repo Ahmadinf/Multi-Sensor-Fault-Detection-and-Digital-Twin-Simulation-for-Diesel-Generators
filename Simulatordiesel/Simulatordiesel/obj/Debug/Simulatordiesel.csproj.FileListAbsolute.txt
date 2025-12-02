@@ -1,0 +1,14 @@
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.csproj.AssemblyReference.cache
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.Properties.Resources.resources
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.csproj.GenerateResource.cache
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.csproj.CoreCompileInputs.cache
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\bin\Debug\Simulatordiesel.exe.config
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\bin\Debug\Simulatordiesel.exe
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\bin\Debug\Simulatordiesel.pdb
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\bin\Debug\MathNet.Numerics.dll
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\bin\Debug\MathNet.Numerics.xml
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulato.AD32B39D.Up2Date
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.exe
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.pdb
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.exe.config
+C:\Users\Ahmadin\source\repos\Simulatordiesel\Simulatordiesel\obj\Debug\Simulatordiesel.SensorParameterConfig.resources
